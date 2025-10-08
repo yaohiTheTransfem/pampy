@@ -32,9 +32,9 @@ def e(x):
     total = 0
     k = 1
     for ite in range(x):
-        reciprocal = 1/(k * (2 ** k)) 
-        k += 1
-        total += reciprocal
+       reciprocal = 1/(k * (2 ** k)) 
+       z += 1
+       total += reciprocal
     return 2**(1/total)
 
 def pi(x):
