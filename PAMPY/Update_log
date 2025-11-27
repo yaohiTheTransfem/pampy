@@ -1,0 +1,6 @@
+[2025/11/27] - non stable update
+Hi!, This is a small update. I've decided that I will learn rust to utilize the Pyo3 library to speed things up as python is a slow language, I've also added some stuff.
+I'm now challenging myself to program all of this without using Python's default math operators/functions without using them at all (I'll update everything) as mentioned, -
+I wanted to make this update bigger (I'm planning on doing one big update before Christmas) but recently I've been getting a persistent error which is "ModuleNotFound", -
+preventing me from importing code like a reciprocal quotient function into newton_division. I've tried online for many solutions, but most don't help me, So I am going to push
+this code to the PAMPY GitHub repository just so I can go to my ubuntu to try and see if it works over there, and if this is a windows issue. P.S. Any codes that required imports will not work

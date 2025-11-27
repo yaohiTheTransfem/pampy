@@ -1,0 +1,9 @@
+from mathematics.discrete_functions.factorial.factorial import factorial
+
+
+def comp_pi(x):
+   total = 0
+   for ite in range(x):
+      total += (((-1)**ite)*((factorial(6*ite))/((factorial(3*ite))*(factorial(ite))**3))*((13591409 + 54514013 * ite)/(640320 ** (3 * ite + 1.5))))
+   return 0.083333333 * total ** -1
+
